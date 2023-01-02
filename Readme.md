@@ -33,5 +33,6 @@ allure serve allure-results
 5. Open index.html in a browser to view report
 
 ## Here is the "Allure Report" of my project:
-![img.png](img.png)
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/28926103/210197627-e5aede8d-0c9e-4199-8d75-c225476c8bee.png)
+![image](https://user-images.githubusercontent.com/28926103/210197636-a0d6e01c-5698-4b05-a706-a9fb00822e84.png)
+
